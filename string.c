@@ -24,4 +24,4 @@ int main(void) {
 	return 0;
 }
 
-0000000
+09999
